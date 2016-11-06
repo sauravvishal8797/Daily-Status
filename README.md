@@ -24,3 +24,9 @@ OCTOBER 21, 2016
 * Went through some Django tutorials at https://www.youtube.com/results?search_query=Django+the+new+boston.
 
 
+NOVEMBER 5, 2016
+* Attended a session on DNS spoofing including some other security concepts also.
+* Went through the developer blogs of WikiToLearn. 
+* Continued working on creating the first Django app through https://www.youtube.com/results?search_query=Django+the+new+boston.
+
+
