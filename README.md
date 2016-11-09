@@ -35,3 +35,6 @@ November 6, 2016
 * Went through the developers blog of WikiToLearn through .
 * Worked on creating the first Django powered website through https://www.youtube.com/results?search_query=Django+the+new+boston.
 
+November 7, 2016
+* Worked oon creating the first Django powered website through https://www.youtube.com/results?search_query=Django+the+new+boston.
+* Worked on creating views, setting up the database and connecting the database to the views.
