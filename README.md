@@ -30,3 +30,8 @@ NOVEMBER 5, 2016
 * Continued working on creating the first Django app through https://www.youtube.com/results?search_query=Django+the+new+boston.
 
 
+November 6, 2016
+* Had a session on DNS spoofing which was quite informative and a good exposure to security concepts.
+* Went through the developers blog of WikiToLearn through .
+* Worked on creating the first Django powered website through https://www.youtube.com/results?search_query=Django+the+new+boston.
+
