@@ -44,3 +44,8 @@ November 8, 2016
 * Worked on creating the first Django powered website through https://www.youtube.com/results?search_query=Django+the+new+boston.
 * Worked on url mappings, creating and activating models, filtering databases.
 * Worked on creating an admin interface for the website.
+
+
+November 9, 2016
+* Completed the admin interface for the website.
+* Worked on adding templates, errors and creating simple forms.
