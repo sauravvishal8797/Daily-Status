@@ -25,7 +25,7 @@ OCTOBER 21, 2016
 
 
 NOVEMBER 5, 2016
-* Attended a session on DNS spoofing including some other security concepts also.
+* Attended a s*ession on DNS spoofing including some other security concepts also.
 * Went through the developer blogs of WikiToLearn. 
 * Continued working on creating the first Django app through https://www.youtube.com/results?search_query=Django+the+new+boston.
 
@@ -49,3 +49,8 @@ November 8, 2016
 November 9, 2016
 * Completed the admin interface for the website.
 * Worked on adding templates, errors and creating simple forms.
+
+November 10, 2016
+* Worked on adding songs to the database(as it is basically a music album app).
+* Worked on modifying the front end using bootstrap.
+
