@@ -58,3 +58,6 @@ November 10, 2016
 December 20, 2016
 * Solved 10 challenges from hackerrank 30 days of code portion.
 
+December 21, 2016
+* Solved 3 challenges from hackerrank 30 days of code portion.
+
