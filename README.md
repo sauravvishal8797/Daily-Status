@@ -54,3 +54,7 @@ November 10, 2016
 * Worked on adding songs to the database(as it is basically a music album app).
 * Worked on modifying the front end using bootstrap.
 
+
+December 20, 2016
+* Solved 10 challenges from hackerrank 30 days of code portion.
+
