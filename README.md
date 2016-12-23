@@ -64,3 +64,6 @@ December 21, 2016
 December 22, 2016
 * Solved 4 challenges from hackerrank 30 days of code challenge.
 
+December 23, 2016
+* Solved 5 challenges from hackerrank algorithms warmups.
+
