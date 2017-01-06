@@ -66,3 +66,8 @@ December 22, 2016
 
 December 23, 2016
 * Solved 5 challenges from hackerrank algorithms warmups.
+
+January 7, 2017
+* Worked on the JustJava app(a simple coffee ordering app).
+* Worked on providing different languages support to the app(learned about localization in android).
+
